@@ -1,0 +1,32 @@
+s1 1   1   LabsCores
+s1 2   2   News
+s1 3   3   Research
+s1 4   4   Travel
+s1 5   5   WebTexts
+s1 6   6   Software
+s1 7   7   Permissions
+s1 8   8   Groups
+
+s2 9   9   Directory
+s2 10  10  Collaborators
+s2 11  11  Contacts
+s2 12  12  Publications
+s2 13  13  Donors
+s2 14  14  HumanSpecimens
+
+
+s3 15  15  DNAPurification
+s3 16  16  ProteinExpression
+s3 17  17  HybridomaPurification
+s3 18  18  HighDensityCellCulture
+s3 19  19  VGeneCloning
+s3 20  20  IsotypeDetermination
+s3 21  21  MycoplasmaDetection
+s3 22  22  HybridomaProject
+s3 23  23  SEEQ
+s3 24  24  SequencingCore
+
+
+s4 25  25  Samples
+s4 26  26  Freezers
+s4 27  27  Affinitycolumns

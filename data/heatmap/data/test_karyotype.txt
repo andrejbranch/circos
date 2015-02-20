@@ -1,0 +1,5 @@
+chr - s1 HEAT 1 385 chr1
+#chr - s1 Administration 1 8 chr1
+#chr - s2 People 9 14 chr2
+#chr - s3 R&D 15 24 chr3
+#chr - s4 People 25 27 chr4
